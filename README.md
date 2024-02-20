@@ -63,7 +63,7 @@ Fully accredited Web Developer in June 2020. TECHIN - Vilniaus technologijų ir 
 - [loretari/ecommerce-app](https://github.com/loretari/ecommerce-app) - A simple store layout that shows product selection and cart creation. 
 - [loretari/e-commerce_simple-app](https://github.com/loretari/e-commerce_simple-app) - A simple shopping cart
 - [loretari/loreta-portfolio](https://github.com/loretari/loreta-portfolio) - My personal website
-- [loretari/artworks.github.io](https://github.com/loretari/artworks.github.io) - A Discover Art & Artists website is an online platform, where you can found thousands of artworks from Chicago art Institute museum’s collection.
+- [loretari/artworks.github.io](https://github.com/loretari/artworks.github.io) - A Discover Art & Artists website is an online platform.
 
 
   
