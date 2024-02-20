@@ -1,12 +1,13 @@
 ### Hi, I'm Loreta
 
 
-- 🖥️ I'm Full Stack Web / Software Engineer
+- 🖥️ I'm Full Stack Web / Software Engineer.
 - ⚡ I'm Fully accredited Web Developer in June 2020 (TECHIN).
-- 🏗️ I'm energetic, flexible, highly motivated, positive team player, eager to learn and open to new challenges.
-- 🦀 I’m learning React.js and MERN at the moment
-- 👨‍💻 Some of my projects are available at (https://lucent-rolypoly-34fde0.netlify.app/)
+- 🦀 I’m learning React.js and MERN at the moment.
+- 👨‍💻 Some of my projects are available at **https://lucent-rolypoly-34fde0.netlify.app/**
 - 📫 You can reach me **loreta.is.dev@gmail.com**
+- 🏗️ I'm energetic, flexible, highly motivated, positive team player, eager to learn and open to new challenges.
+
 
 
 ##  🛠 Main Stack / Tools
