@@ -58,6 +58,7 @@
   ### 🌱 My latest projects
 
 
+- [loretari/ecommerce-MERN](https://github.com/loretari/ecommerce-MERN) - This simple e-commerce app allows an user to search for a product and add it to a cart, and then proceed to payment. There is also an admin portal in which an admin can add, update and delete new users and products.
 - [loretari/ecommerce-app](https://github.com/loretari/ecommerce-app) - A simple store layout that shows product selection and cart creation. 
 - [loretari/e-commerce_simple-app](https://github.com/loretari/e-commerce_simple-app) - A simple shopping cart
 - [loretari/loreta-portfolio](https://github.com/loretari/loreta-portfolio) - My personal website
